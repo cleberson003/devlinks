@@ -1,5 +1,5 @@
 <h1 align="center"> DevLinks </h1>
-<p align="center"> <a href="https://cleberson003.github.io/devlinks/" target="_blank">Veja como ficou este projeto clicando aqui</a></p>
+<p align="center"> Veja como ficou este projeto <a href="https://cleberson003.github.io/devlinks/" target="_blank">clicando aqui</a></p>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
